@@ -1,6 +1,4 @@
 /home/vitalii/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/vitalii/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/vitalii/Documents/Programming/cpp/image_processor -B /home/vitalii/Documents/Programming/cpp/image_processor/cmake-build-debug
-CMake Error at CMakeLists.txt:21 (add_catch):
-  Unknown CMake command "add_catch".
-
-
--- Configuring incomplete, errors occurred!
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/vitalii/Documents/Programming/cpp/image_processor/cmake-build-debug

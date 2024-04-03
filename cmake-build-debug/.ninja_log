@@ -1,0 +1,17 @@
+# ninja log v5
+1	211	1712149823086729037	CMakeFiles/image_processor.dir/main.cpp.o	46befc4bd84ac5c0
+211	244	1712149823119728806	image_processor	266354ba6fbca843
+0	11	1712152566942437519	build.ninja	b7fa2bb76c9eddc6
+0	201	1712152567146852786	CMakeFiles/image_processor.dir/ColorPixel.cpp.o	bea90bc57e4d7c8b
+0	655	1712152567600599679	CMakeFiles/image_processor.dir/filters/MatrixBaseFilter.cpp.o	ced653dd346343cf
+1	769	1712152567714265568	CMakeFiles/image_processor.dir/image.cpp.o	6b2fe34f57a4ac5b
+201	834	1712152567780265116	CMakeFiles/image_processor.dir/filters/EdgeDetectionFilter.cpp.o	87776c0e88de3c1a
+0	842	1712152567786681739	CMakeFiles/image_processor.dir/filters/GaussianBlurFilter.cpp.o	18f7ff4f85ae9b2e
+0	946	1712152567892097684	CMakeFiles/image_processor.dir/factory.cpp.o	9c89b8497e4af3d3
+0	1119	1712152568064429837	CMakeFiles/image_processor.dir/image_processor.cpp.o	6ff15ee58f5e8e32
+655	1292	1712152568237678651	CMakeFiles/image_processor.dir/filters/GrayScaleFilter.cpp.o	fb5fe8c806e32678
+834	1373	1712152568318344765	CMakeFiles/image_processor.dir/filters/GlassDistortionFilter.cpp.o	db78597034fb168e
+769	1378	1712152568322928068	CMakeFiles/image_processor.dir/filters/SharpFilter.cpp.o	8a54838170dc600b
+947	1445	1712152568390760936	CMakeFiles/image_processor.dir/filters/CropFilter.cpp.o	4425bbe886e2fb29
+842	1457	1712152568403594182	CMakeFiles/image_processor.dir/filters/NegFilter.cpp.o	7caa98a78ec4d2c9
+1457	1508	1712152568454010504	image_processor	f034eb1ac34bf072
